@@ -38,8 +38,12 @@ This work has been funded by:
 
 ## License
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.md).
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.md).
 
 ## Copyright
 
 Hpmoon © 2015 [EFFICOMP](https://atcproyectos.ugr.es/efficomp/).
+
+## Publications
+
+J. J. Escobar, J. Ortega, J. González, M. Damas, and A. F. Díaz. "Parallel High-dimensional Multiobjective Feature Selection for EEG Classification with Dynamic Workload Balancing on CPU-GPU". In: *Cluster Computing* 20.3 (2017), pp. 1881-1897. doi: 10.1007/s10586-017-0980-7.
