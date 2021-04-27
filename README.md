@@ -46,5 +46,7 @@ Hpmoon © 2015 [EFFICOMP](https://atcproyectos.ugr.es/efficomp/).
 
 ## Publications
 
+1. J. J. Escobar, J. Ortega, A. F. Díaz, J. González, and M. Damas. "Energy-aware Load Balancing of Parallel Evolutionary Algorithms with Heavy Fitness Functions in Heterogeneous CPU-GPU Architectures". In: *Concurrency and Computation: Practice and Experience* 31.6 (2019), e4688. doi: 10.1002/cpe.4688
+1. J. J. Escobar, J. Ortega, A. F. Díaz, J. González, and M. Damas. "Time-energy Analysis of Multi-level Parallelism in Heterogeneous Clusters: The Case of EEG Classification in BCI Tasks". In: *The Journal of Supercomputing* 75.7 (2019), pp. 3397-3425. doi: 10.1007/s11227-019-02908-4.
 1. J. J. Escobar, J. Ortega, A. F. Díaz, J. González, and M. Damas. "A Power-Performance Perspective to Multiobjective Electroencephalogram Feature Selection on Heterogeneous Parallel Platforms". In: *Journal of Computational Biology* 25.8 (2018), pp. 882-893. doi: 10.1089/cmb.2018.0080.
 1. J. J. Escobar, J. Ortega, J. González, M. Damas, and A. F. Díaz. "Parallel High-dimensional Multiobjective Feature Selection for EEG Classification with Dynamic Workload Balancing on CPU-GPU". In: *Cluster Computing* 20.3 (2017), pp. 1881-1897. doi: 10.1007/s10586-017-0980-7.
