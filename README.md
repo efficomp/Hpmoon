@@ -42,7 +42,7 @@ This work has been funded by:
 
 ## Copyright
 
-Hpmoon © 2015 [EFFICOMP](https://atcproyectos.ugr.es/efficomp/).
+Hpmoon © 2015 [EFFICOMP](https://efficomp.ugr.es/).
 
 ## Publications
 
