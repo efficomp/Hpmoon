@@ -34,6 +34,8 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Multi-objective Feature Selection for EEG Classification with Multi-Level Parallelism on Heterogeneous CPU-GPU Clusters*. In: **Proceedings of the Annual Conference on Genetic and Evolutionary Computation. GECCO'2018**. Kyoto, Japan: ACM, July 2018, pp. 1862-1869. DOI: [10.1145/3205651.3208239](https://doi.org/10.1145/3205651.3208239).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Speedup and Energy Analysis of EEG Classification for BCI Tasks on CPU-GPU Clusters*. In: **Proceedings of the 6th International Workshop on Parallelism in Bioinformatics. PBIO'2018**. Barcelona, Spain: ACM, September 2018, pp. 33-43. DOI: [10.1145/3235830.3235834](https://doi.org/10.1145/3235830.3235834).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Power-Performance Evaluation of Parallel Multi-objective EEG Feature Selection on CPU-GPU Platforms*. In: **Proceedings of the 5th International Workshop on Parallelism in Bioinformatics. PBIO'2017**. Helsinki, Finland: Springer, August 2017, pp. 580-590. DOI: [10.1007/978-3-319-65482-9_43](https://doi.org/10.1007/978-3-319-65482-9_43).
+1. J.J. Escobar, J. Ortega, J. González, M. Damas, and B. Prieto. *Issues on GPU Parallel Implementation of Evolutionary High-Dimensional Multi-objective Feature Selection*. In: **Proceedings of the 20th European Conference on Applications of Evolutionary Computation, Part I. EVOSTAR'2017**. Amsterdam, The Netherlands: Springer, April 2017, pp. 773-788. DOI: [10.1007/978-3-319-55849-3_50](https://doi.org/10.1007/978-3-319-55849-3_50).
+
 
 ## Funding
 
