@@ -29,7 +29,7 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 
 #### Conferences
 
-1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *A Parallel and Distributed Multi-population GA with Asynchronous Migrations: Energy-time Analysis for Heterogeneous Systems*. In: **Proceedings of the Annual Conference on Genetic and Evolutionary Computation**. GECCO'2020. Cancun, Mexico: ACM, July 2020, pp. 211-212. DOI: [10.1145/3377929.3389908](https://doi.org/10.1145/3377929.3389908).
+1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *A Parallel and Distributed Multi-population GA with Asynchronous Migrations: Energy-time Analysis for Heterogeneous Systems*. In: **Proceedings of the Annual Conference on Genetic and Evolutionary Computation. GECCO'2020**. Cancun, Mexico: ACM, July 2020, pp. 211-212. DOI: [10.1145/3377929.3389908](https://doi.org/10.1145/3377929.3389908).
 
 ## Funding
 
