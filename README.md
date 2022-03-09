@@ -31,6 +31,7 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *A Parallel and Distributed Multi-population GA with Asynchronous Migrations: Energy-time Analysis for Heterogeneous Systems*. In: **Proceedings of the Annual Conference on Genetic and Evolutionary Computation. GECCO'2020**. Cancun, Mexico: ACM, July 2020, pp. 211-212. DOI: [10.1145/3377929.3389908](https://doi.org/10.1145/3377929.3389908).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Energy-time Analysis of Heterogeneous Clusters for EEG Classification*. In: **Proceedings of the 3rd International Workshop on Power-Aware Computing. PACO'2019**. Magdeburg, Germany: Zenodo, November 2019, pp. 7-9. DOI: [10.5281/zenodo.5572831](https://doi.org/10.5281/zenodo.5572831).
+1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Multi-objective Feature Selection for EEG Classification with Multi-Level Parallelism on Heterogeneous CPU-GPU Clusters*. In: **PProceedings of the Annual Conference on Genetic and Evolutionary Computation. GECCO'2018**. Kyoto, Japan: ACM, July 2018, pp. 1862-1869. DOI: [10.1145/3205651.3208239](https://doi.org/10.1145/3205651.3208239).
 
 ## Funding
 
