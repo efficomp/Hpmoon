@@ -39,7 +39,6 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 1. J.J. Escobar, J. Ortega, J. González, and M. Damas. *Assessing Parallel Heterogeneous Computer Architectures for Multiobjective Feature Selection on EEG Classification*. In: **Proceedings of the 4th International Conference on Bioinformatics and Biomedical Engineering. IWBBIO'2016**. Granada, Spain: Springer, April 2016, pp. 277-289. DOI: [10.1007/978-3-319-31744-1_25](https://doi.org/10.1007/978-3-319-31744-1_25).
 1. J.J. Escobar, J. Ortega, J. González, and M. Damas. *Improving Memory Accesses for Heterogeneous Parallel Multi-objective Feature Selection on EEG Classification*. In: **Proceedings of the 4th International Workshop on Parallelism in Bioinformatics. PBIO'2016**. Grenoble, France: Springer, August 2016, pp. 372-383. DOI: [10.1007/978-3-319-58943-5_30](https://doi.org/10.1007/978-3-319-58943-5_30).
 
-
 ## Funding
 
 This work has been funded by:
