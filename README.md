@@ -20,7 +20,7 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 
 ## Publications
 
-### Journals
+#### Journals
 
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Energy-aware Load Balancing of Parallel Evolutionary Algorithms with Heavy Fitness Functions in Heterogeneous CPU-GPU Architectures*. In: **Concurrency and Computation: Practice and Experience** 31.6 (2019), e4688. DOI: [10.1002/cpe.4688](https://doi.org/10.1002/cpe.4688).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Time-energy Analysis of Multi-level Parallelism in Heterogeneous Clusters: The Case of EEG Classification in BCI Tasks*. In: **The Journal of Supercomputing** 75.7 (2019), pp. 3397-3425. DOI: [10.1007/s11227-019-02908-4](https://doi.org/10.1007/s11227-019-02908-4).
