@@ -49,12 +49,8 @@ This work has been funded by:
 
 <div style="text-align: right">
   <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/mineco.png" height="60">
-  <a href="https://www.ciencia.gob.es/">
-    <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/miciu.jpg" height="60">
-  </a>
-  <a href="https://ec.europa.eu/regional_policy/en/funding/erdf/">
-    <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/erdf.png" height="60">
-  </a>
+  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/miciu.jpg" height="60">
+  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/erdf.png" height="60">
 </div>
 
 ## License
